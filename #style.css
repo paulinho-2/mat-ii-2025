@@ -1,12 +1,12 @@
-.texto{
+body{
     font-size: 2rem;
     color: brown;
     text-align:center;
 }
-.fundo{
+body{
     background-color:beige;
 }
-.titulo{
+header{
     font-size: 3rem;
     color:black;
     text-align:center;
