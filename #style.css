@@ -1,0 +1,13 @@
+.texto{
+    font-size: 2rem;
+    color: brown;
+    text-align:center;
+}
+.fundo{
+    background-color:beige;
+}
+.titulo{
+    font-size: 3rem;
+    color:black;
+    text-align:center;
+}
