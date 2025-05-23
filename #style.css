@@ -1,11 +1,11 @@
 body{
     font-size: 2rem;
-    background-color: #0926CA;
+    background: #0926CA;
     text-align:center;
 }
 
 header{
     font-size: 3rem;
-    color:black;
+   background:black;
     text-align:center;
 }
